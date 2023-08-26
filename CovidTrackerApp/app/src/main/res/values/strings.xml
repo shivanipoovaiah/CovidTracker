@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CovidTrackerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">COVID Tracker</string>
+    <string name="enterStateMsg">Enter your state code (Eg. CA for California):</string>
+    <string name="submitBtn">Submit</string>
+    <string name="metrics">Metrics: </string>
+    <string name="state">State Code: </string>
+    <string name="population">Population: </string>
+    <string name="infectionRatio">Infection Ratio: </string>
+    <string name="testPositivityRate">Test Positivity Rate: </string>
+    <string name="icuCapacityRatio">ICU Capacity Ratio: </string>
+    <string name="vacInit">Vaccination Initiated Ratio: </string>
+    <string name="vacComp">Vaccination Completed Ratio: </string>
+    <string name="nullError">Please enter a state code!</string>
+    <string name="formatError">Incorrect Format! Enter state code of format: Eg.: "CA" only</string>
+    <string name="noStateError">Incorrect State Code! State with this state code does not exist! Try again!</string>
+    <string name="error">An error occurred while processing your request. We are unable to process your request at the moment</string>
+</resources>
